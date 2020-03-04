@@ -11,7 +11,7 @@
 ###### *Selenium will allow us to scroll/copy text/fill forms and click buttons and Selenium Chrome Driver will open for us Google Chrome to perform our automated tasks .*
 
 ### Explaining the code:
-###### Logg in with our email by using HTML attributes 
+##### Log in by using HTML attributes 
 
 ```
     username = browser.find_element_by_id('identifierId')  #log in with email
