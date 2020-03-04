@@ -1,12 +1,12 @@
 # Python_project-Facebook_automation
 
 ### Prior requirements:
-- [ ] install selenium
-###### *will allow us to scroll/copy text/fill forms and click buttons.*
-- [ ] install Google Chrome browser
-- [ ] download Selenium Chrome Driver according to your Chrome version [here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
-###### *will open for us Google Chrome to perform our automated tasks*
-###### *download ZIP file, extract the chromedriver.exe executable, and place the your C:\Python\Scripts*
+- [ ] Install selenium
+- [ ] Install Google Chrome browser
+- [ ] Download Selenium Chrome Driver according to your Chrome version [here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+- [ ] Download ZIP file, extract the chromedriver.exe executable, and place the your C:\Python\Scripts
+
+###### *Selenium will allow us to scroll/copy text/fill forms and click buttons and Selenium Chrome Driver will open for us Google Chrome to perform our automated tasks .*
 
 ### Explaining the code:
 ###### Logging in with our email by using HTML id attributes 
