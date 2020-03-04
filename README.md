@@ -24,15 +24,15 @@ We need to find the input fields on the web page so we can enter our email and p
 
 - [ ] Use the built-in Chrome Developer Tools
 - [ ] Right-click on the input fields, and select the “Inspect” menu
-###### *Then click on this sign:
-![alt_text](click_html_.png)
+###### *Then click on this sign: ![alt_text](click_html_.png)
+
 ###### and point on where the user inserts his email .*
 
 - [ ] finally, right-click the relevent field->copy->copy Xpath
 ###### *it will look like this:(Hebrew version)*
 ![alt_text](copy_Xpath_html.png)
 
--[ ] you will recieve this kind of text - "//*[@id="identifierId"]"
+- [ ] you will recieve this kind of text - "//*[@id="identifierId"]"
 ###### *In the code above, we are searching for the username input field by id, and filling it with the desired text 'identifierId'.*
 
 
