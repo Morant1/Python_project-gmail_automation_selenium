@@ -2,15 +2,12 @@
 
 
 ### Prior requirements:
-```
+
 - [ ] Install selenium
 - [ ] Install Google Chrome browser
-- [ ] Download Selenium Chrome Driver according to your Chrome version
-```
-[here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
-```
+- [ ] Download Selenium Chrome Driver according to your Chrome version[here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 - [ ] Download the ZIP file, extract Chromedriver.exe executable and place the your C:\Python\Scripts
-```
+
 ###### *Selenium will allow us to scroll/copy text/fill forms and click buttons and Selenium Chrome Driver will open for us Google Chrome to perform our automated tasks .*
 
 ### Explaining the code:
