@@ -25,7 +25,7 @@ We need to find the input fields on the web page so we can enter our email and p
 - [ ] Use the built-in Chrome Developer Tools
 - [ ] Right-click on the input fields, and select the “Inspect” menu
 ###### *Then click on this sign:
-![alt_text](click_html.png | width=100)
+![alt_text](click_html.png)
 ###### and point on where the user inserts his email .*
 
 - [ ] finally, right-click the relevent field->copy->copy Xpath
@@ -37,10 +37,10 @@ We need to find the input fields on the web page so we can enter our email and p
 
 
 
-###### I did the same exact process for Password and next button
+###### I did the same exact process for Password and next buttons.
 
-#### Hope you find my explanation clear.
-### Now let's run the code ✔
+#### Hope you'll find my explanation clear.
+#### Now let's run the code ✔
 
 
 
