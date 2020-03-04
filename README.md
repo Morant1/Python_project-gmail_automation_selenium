@@ -22,10 +22,12 @@ We need to find the input fields on the web page so we can enter our email and p
 
 - [ ] Use the built-in Chrome Developer Tools
 - [ ] We only need to right-click on the input fields, and select the “Inspect” menu
-###### *Then click on this sign:   
-
+###### *Then click on this sign:
+![alt_text](click_html.png)
 ###### and point on where the user insert his email .*
 
+-[ ] finally, right-click the relevent field->copy->copy Xpath
+###### *it will look like this:*
 ![alt_text](copy_Xpath_html.png)
 
 
