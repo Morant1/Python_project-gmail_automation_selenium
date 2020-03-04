@@ -13,9 +13,9 @@
 
 ```
     username = browser.find_element_by_id('identifierId')  #log in with email
-    username.send_keys(usernameStr)
+    username.send_keys(usernameStr) #simulates keypresses in the desired element
     nextButton = browser.find_element_by_id('identifierNext') #press next
-    nextButton.click()
+    nextButton.click() #simulates a mouse click.
 ```
 
 We need to find the input fields on the web page so we can enter our email and password.
@@ -30,8 +30,15 @@ We need to find the input fields on the web page so we can enter our email and p
 ###### *it will look like this:*
 ![alt_text](copy_Xpath_html.png)
 
+-[ ] you will recieve this kind of text - "//*[@id="identifierId"]"
+###### *In the code above, we are searching for the username input field by id, and filling it with the desired text 'identifierId'.*
 
 
+
+###### I did the same exact process for Password and next button
+
+## Hope you find my explanation clear.
+## Now let's run the code ✔
 
 
 
