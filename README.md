@@ -21,8 +21,8 @@
 We need to find the input fields on the web page so we can enter our email and password.
 
 - [ ] Use the built-in Chrome Developer Tools
-- [ ] ![We only need to right-click on the input fields, and select the “Inspect” menu](
-![Test Image 1](copy_Xpath_html.png)
+- [ ] We only need to right-click on the input fields, and select the “Inspect” menu
+![alt_text](copy_Xpath_html.png)
 
 
 
