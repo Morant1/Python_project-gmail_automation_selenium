@@ -1,11 +1,12 @@
 # Python_project-Facebook_automation
 
 ### Prior requirements:
+```
 - [ ] Install selenium
 - [ ] Install Google Chrome browser
 - [ ] Download Selenium Chrome Driver according to your Chrome version [here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
-- [ ] Download ZIP file, extract the chromedriver.exe executable, and place the your C:\Python\Scripts
-
+- [ ] Download the ZIP file, extract Chromedriver.exe executable and place the your *C:\Python\Scripts*
+```
 ###### *Selenium will allow us to scroll/copy text/fill forms and click buttons and Selenium Chrome Driver will open for us Google Chrome to perform our automated tasks .*
 
 ### Explaining the code:
@@ -37,8 +38,8 @@ We need to find the input fields on the web page so we can enter our email and p
 
 ###### I did the same exact process for Password and next button
 
-## Hope you find my explanation clear.
-## Now let's run the code ✔
+#### Hope you find my explanation clear.
+### Now let's run the code ✔
 
 
 
