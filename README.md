@@ -35,7 +35,7 @@ We need to find the input fields on the web page so we can enter our email and p
 
 
 
-- [x] I did the same exact process for Password and next buttons.
+- [x] I did the same exact process for 'Password' and 'Next' buttons.
 
 #### Hope you'll find my explanation clear.
 #### Now let's run the code ✔
