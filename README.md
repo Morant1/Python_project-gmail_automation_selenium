@@ -1,10 +1,10 @@
 # Python_project-Facebook_automation
 
 ### Prior requirements:
-- [ ] install selenium -->
+- [ ] install selenium
 ###### *will allow us to scroll/copy text/fill forms and click buttons.*
 - [ ] install Google Chrome browser
-- [ ] download Selenium Chrome Driver according to your Chrome version [here](https://sites.google.com/a/chromium.org/chromedriver/downloads) -->
+- [ ] download Selenium Chrome Driver according to your Chrome version [here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 ###### *will open for us Google Chrome to perform our automated tasks*
 ###### *download ZIP file, extract the chromedriver.exe executable, and place the your C:\Python\Scripts*
 
