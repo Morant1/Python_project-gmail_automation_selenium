@@ -5,13 +5,13 @@
 
 - [ ] Install selenium
 - [ ] Install Google Chrome browser
-- [ ] Download Selenium Chrome Driver according to your Chrome version[here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
-- [ ] Download the ZIP file, extract Chromedriver.exe executable and place the your C:\Python\Scripts
+- [ ] Download Selenium Chrome Driver according to your Chrome version [here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+- [ ] Download the ZIP file, extract Chromedriver.exe executable and place it in your C:\Python\Scripts
 
 ###### *Selenium will allow us to scroll/copy text/fill forms and click buttons and Selenium Chrome Driver will open for us Google Chrome to perform our automated tasks .*
 
 ### Explaining the code:
-###### Logging in with our email by using HTML attributes 
+###### Logg in with our email by using HTML attributes 
 
 ```
     username = browser.find_element_by_id('identifierId')  #log in with email
@@ -23,13 +23,13 @@
 We need to find the input fields on the web page so we can enter our email and password.
 
 - [ ] Use the built-in Chrome Developer Tools
-- [ ] We only need to right-click on the input fields, and select the “Inspect” menu
+- [ ] Right-click on the input fields, and select the “Inspect” menu
 ###### *Then click on this sign:
-![alt_text](click_html.png)
-###### and point on where the user insert his email .*
+![alt_text](click_html.png | width=100)
+###### and point on where the user inserts his email .*
 
--[ ] finally, right-click the relevent field->copy->copy Xpath
-###### *it will look like this:*
+- [ ] finally, right-click the relevent field->copy->copy Xpath
+###### *it will look like this:(Hebrew version)*
 ![alt_text](copy_Xpath_html.png)
 
 -[ ] you will recieve this kind of text - "//*[@id="identifierId"]"
